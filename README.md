@@ -9,3 +9,5 @@ En este proyecto se trabajo:
 * Strings and UTF-16
 * Closures
 * NSRange
+
+![](Project5.gif)
